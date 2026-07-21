@@ -1,0 +1,31 @@
+StudentID,Name,Age,Gender,Department,Semester,GPA
+101,Aarav Sharma,20.464285714285715,Male,Computer Engineering,3,3.72
+102,Sita Thapa,19.0,Female,Electronics,2,3.85
+103,Rohan Gurung,21.0,Male,Unknown,5,3.41
+104,Priya Karki,20.0,Female,Information Technology,4,3.91
+105,Nabin BK,22.0,Male,Mechanical Engineering,6,3.6257142857142854
+106,Anisha Rai,19.0,Female,Civil Engineering,2,3.67
+107,Samir Shrestha,21.0,Male,Computer Engineering,5,3.52
+108,Ritika Joshi,20.0,Female,Electronics,4,3.78
+109,Bikash KC,23.0,Male,Civil Engineering,7,3.25
+110,Asmita Adhikari,18.0,Female,Computer Engineering,1,3.95
+111,Suman Thapa,20.0,Male,Mechanical Engineering,3,3.49
+112,Nisha Koirala,22.0,Female,Architecture,6,3.82
+113,Rabin Gurung,21.0,Male,Information Technology,5,3.64
+114,Pooja Chaudhary,19.0,Female,Civil Engineering,2,3.56
+115,Deepak Oli,20.0,Male,Electronics,4,3.28
+116,Manisha Sharma,21.0,Female,Computer Engineering,5,3.87
+117,Ritesh Yadav,22.0,Male,Mechanical Engineering,6,3.44
+118,Kabita Thapa,20.0,Female,Architecture,4,3.79
+119,Saroj Bista,23.0,Male,Civil Engineering,7,3.18
+120,Sneha Poudel,18.0,Female,Information Technology,1,3.92
+121,Ajay Rana,21.0,Male,Computer Engineering,5,3.6
+122,Roshani Magar,20.0,Female,Electronics,3,3.74
+123,Prakash Karki,22.0,Male,Civil Engineering,6,3.36
+124,Alina Gurung,19.0,Female,Computer Engineering,2,3.6257142857142854
+125,Bibek Acharya,20.0,Male,Architecture,4,3.48
+126,Sunita BK,20.464285714285715,Female,Mechanical Engineering,3,3.69
+127,Arjun Lama,21.0,Male,Electronics,5,3.57
+128,Reshma Khadka,20.0,Female,Information Technology,4,3.83
+129,Kiran Tamang,22.0,Male,Computer Engineering,6,3.31
+130,Mamta Shrestha,19.0,Female,Civil Engineering,2,3.89
